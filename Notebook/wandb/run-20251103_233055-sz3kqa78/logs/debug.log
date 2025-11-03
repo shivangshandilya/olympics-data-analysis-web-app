@@ -1,0 +1,24 @@
+2025-11-03 23:30:55,783 INFO    MainThread:18336 [wandb_init.py:setup_run_log_directory():706] Logging user logs to c:\Users\Shivang\OneDrive\Desktop\Projects\MLOps\olympics-data-analysis-web-app\Notebook\wandb\run-20251103_233055-sz3kqa78\logs\debug.log
+2025-11-03 23:30:55,784 INFO    MainThread:18336 [wandb_init.py:setup_run_log_directory():707] Logging internal logs to c:\Users\Shivang\OneDrive\Desktop\Projects\MLOps\olympics-data-analysis-web-app\Notebook\wandb\run-20251103_233055-sz3kqa78\logs\debug-internal.log
+2025-11-03 23:30:55,784 INFO    MainThread:18336 [wandb_init.py:init():833] calling init triggers
+2025-11-03 23:30:55,784 INFO    MainThread:18336 [wandb_init.py:init():838] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-11-03 23:30:58,191 INFO    MainThread:18336 [wandb_init.py:init():881] starting backend
+2025-11-03 23:30:58,191 INFO    MainThread:18336 [wandb_init.py:init():884] sending inform_init request
+2025-11-03 23:30:58,195 INFO    MainThread:18336 [wandb_init.py:init():892] backend started and connected
+2025-11-03 23:30:58,197 INFO    MainThread:18336 [wandb_run.py:_label_probe_notebook():1328] probe notebook
+2025-11-03 23:30:58,197 INFO    MainThread:18336 [wandb_run.py:_label_probe_notebook():1338] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-11-03 23:30:58,197 INFO    MainThread:18336 [wandb_init.py:init():962] updated telemetry
+2025-11-03 23:30:58,256 INFO    MainThread:18336 [wandb_init.py:init():986] communicating run to backend with 90.0 second timeout
+2025-11-03 23:30:59,216 INFO    MainThread:18336 [wandb_init.py:init():1033] starting run threads in backend
+2025-11-03 23:30:59,793 INFO    MainThread:18336 [wandb_run.py:_console_start():2506] atexit reg
+2025-11-03 23:30:59,794 INFO    MainThread:18336 [wandb_run.py:_redirect():2354] redirect: wrap_raw
+2025-11-03 23:30:59,794 INFO    MainThread:18336 [wandb_run.py:_redirect():2423] Wrapping output streams.
+2025-11-03 23:30:59,795 INFO    MainThread:18336 [wandb_run.py:_redirect():2446] Redirects installed.
+2025-11-03 23:30:59,796 INFO    MainThread:18336 [wandb_init.py:init():1073] run started, returning control to user process
+2025-11-03 23:31:00,563 INFO    MainThread:18336 [wandb_run.py:_config_callback():1390] config_cb ('_wandb', 'visualize', 'athletics_plot') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/scatter/v0', 'fieldSettings': {'x': 'Weight', 'y': 'Height'}, 'stringSettings': {'title': 'Height vs Weight of Athletes Based on Medal Won'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'athletics_plot_table'}], 'fields': []}]}]}}} None
+2025-11-03 23:31:02,588 INFO    MainThread:18336 [wandb_run.py:_finish():2272] finishing run shivangshandilya83-independent/olympics-analysis-mlops-project/sz3kqa78
+2025-11-03 23:31:02,589 INFO    MainThread:18336 [wandb_run.py:_atexit_cleanup():2471] got exitcode: 0
+2025-11-03 23:31:02,590 INFO    MainThread:18336 [wandb_run.py:_restore():2453] restore
+2025-11-03 23:31:02,590 INFO    MainThread:18336 [wandb_run.py:_restore():2459] restore done
+2025-11-03 23:31:08,553 INFO    MainThread:18336 [wandb_run.py:_footer_sync_info():3835] logging synced files

@@ -2,3 +2,7 @@ streamlit
 plotly
 seaborn
 matplotlib
+wandb
+pandas
+numpy
+dvc

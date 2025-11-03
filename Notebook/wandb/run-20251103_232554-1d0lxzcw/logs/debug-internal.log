@@ -1,0 +1,13 @@
+{"time":"2025-11-03T23:25:56.5313571+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.3"}
+{"time":"2025-11-03T23:25:56.9644094+05:30","level":"INFO","msg":"stream: created new stream","id":"1d0lxzcw"}
+{"time":"2025-11-03T23:25:56.9644094+05:30","level":"INFO","msg":"handler: started","stream_id":"1d0lxzcw"}
+{"time":"2025-11-03T23:25:56.9674545+05:30","level":"INFO","msg":"stream: started","id":"1d0lxzcw"}
+{"time":"2025-11-03T23:25:56.9674545+05:30","level":"INFO","msg":"writer: started","stream_id":"1d0lxzcw"}
+{"time":"2025-11-03T23:25:56.9674545+05:30","level":"INFO","msg":"sender: started","stream_id":"1d0lxzcw"}
+{"time":"2025-11-03T23:26:04.016249+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-03T23:27:04.3156443+05:30","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/shivangshandilya83-independent/olympics-analysis-mlops-project/1d0lxzcw/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-11-03T23:27:07.0866195+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-03T23:27:07.0916262+05:30","level":"INFO","msg":"stream: closing","id":"1d0lxzcw"}
+{"time":"2025-11-03T23:27:07.0916262+05:30","level":"INFO","msg":"handler: closed","stream_id":"1d0lxzcw"}
+{"time":"2025-11-03T23:27:07.0931406+05:30","level":"INFO","msg":"sender: closed","stream_id":"1d0lxzcw"}
+{"time":"2025-11-03T23:27:07.0931406+05:30","level":"INFO","msg":"stream: closed","id":"1d0lxzcw"}

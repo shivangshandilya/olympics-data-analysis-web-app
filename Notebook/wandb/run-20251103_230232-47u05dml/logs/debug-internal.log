@@ -1,0 +1,15 @@
+{"time":"2025-11-03T23:02:32.486945+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.3"}
+{"time":"2025-11-03T23:02:32.9349342+05:30","level":"INFO","msg":"stream: created new stream","id":"47u05dml"}
+{"time":"2025-11-03T23:02:32.9354422+05:30","level":"INFO","msg":"handler: started","stream_id":"47u05dml"}
+{"time":"2025-11-03T23:02:32.9382208+05:30","level":"INFO","msg":"stream: started","id":"47u05dml"}
+{"time":"2025-11-03T23:02:32.9382208+05:30","level":"INFO","msg":"sender: started","stream_id":"47u05dml"}
+{"time":"2025-11-03T23:02:32.9382208+05:30","level":"INFO","msg":"writer: started","stream_id":"47u05dml"}
+{"time":"2025-11-03T23:02:39.0090404+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-03T23:03:39.3216584+05:30","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/shivangshandilya83-independent/olympics-analysis-mlops-project/47u05dml/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-11-03T23:03:42.0884051+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/shivangshandilya83-independent/olympics-analysis-mlops-project/47u05dml/file_stream"}
+{"time":"2025-11-03T23:03:42.0884051+05:30","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/shivangshandilya83-independent/olympics-analysis-mlops-project/47u05dml/file_stream: {\"error\":\"run olympics-analysis-mlops-project/47u05dml not found while streaming file\"}"}
+{"time":"2025-11-03T23:03:42.0920397+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-03T23:03:42.1003761+05:30","level":"INFO","msg":"stream: closing","id":"47u05dml"}
+{"time":"2025-11-03T23:03:42.1003761+05:30","level":"INFO","msg":"handler: closed","stream_id":"47u05dml"}
+{"time":"2025-11-03T23:03:42.1009646+05:30","level":"INFO","msg":"sender: closed","stream_id":"47u05dml"}
+{"time":"2025-11-03T23:03:42.1009646+05:30","level":"INFO","msg":"stream: closed","id":"47u05dml"}
